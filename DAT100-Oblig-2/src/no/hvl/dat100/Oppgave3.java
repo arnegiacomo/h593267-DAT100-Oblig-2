@@ -74,6 +74,4 @@ public class Oppgave3 {
 	return nyMatrise;
 		
 	}
-	
-
 }
